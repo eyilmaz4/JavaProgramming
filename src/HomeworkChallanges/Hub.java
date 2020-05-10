@@ -1,7 +1,5 @@
 package HomeworkChallanges;
 
-import abstraction.StaticC;
-
 import java.util.HashMap;
 import java.util.Map;
 

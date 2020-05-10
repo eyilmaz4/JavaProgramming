@@ -8,7 +8,7 @@ public class ArrayListReview {
         System.out.println(myArr);
         String[]arr=new String[0];
         //System.out.println(arr[0]);you can not do anything emty array
-   String [] arr2={"a","b","v"};
+   String [] arr2={"a", "b","v"};
    arr=arr2;
         System.out.println(arr[0]);
         myArr.add("java");

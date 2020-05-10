@@ -1,7 +1,5 @@
 package exceptions;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class example1 {
     public static void main(String[] args) {
 

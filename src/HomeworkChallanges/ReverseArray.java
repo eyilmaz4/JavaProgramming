@@ -5,7 +5,7 @@ import java.util.Arrays;
 //Reverse Array without using another array. (Array itself)
 public class ReverseArray {
     public static void main(String[] args) {
-        String [] sentence={"J","a","v","a"};
+        String [] sentence={"J", "a","v", "a"};
 reverseArray(sentence);
         System.out.println(reverseString("hello world"));
     }

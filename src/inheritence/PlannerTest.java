@@ -11,7 +11,7 @@ myPlanner.deleteEvent("april 10");
 
 ExpoPlanner myExp=new ExpoPlanner();
 myExp.listAll();
-String [] checkList={"a", "b","c", "d","a", "b","c", "d","e","f"};
+String [] checkList={"a", "b", "c", "d", "a", "b", "c", "d","e","f"};
 myExp.modifiedCheckList("may 12", checkList);
 myExp.listAll();
     }
