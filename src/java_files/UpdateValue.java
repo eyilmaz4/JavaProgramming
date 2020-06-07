@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
+import abstraction.AnimalTest;
 
 public class UpdateValue {
     public static void main(String[] args) throws Exception {

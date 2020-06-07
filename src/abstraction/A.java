@@ -1,7 +1,7 @@
 package abstraction;
 
  class A {
-
+     
      public static void main(String[] args) {
          System.out.println('j'+'a'+'v');
          System.out.print("Hello");
