@@ -9,5 +9,8 @@ abstract  class Dice {
         int result = (int) (Math.random() * faces) + 1;
         System.out.println(result);
 
+
+
+
     }
 }

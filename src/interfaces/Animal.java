@@ -1,6 +1,6 @@
 package interfaces;
 
 public interface Animal {
-    void makeSound();
+     void makeSound();
     void sleep();
 }
